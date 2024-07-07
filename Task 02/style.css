@@ -1,0 +1,40 @@
+boday {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+.main{
+    border: 1px solid black;
+}
+#center{
+    /* margin-left: 350px;
+    margin-right: 480px; */
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 20px;
+   text-align: center;
+width: 350px;
+margin: auto;
+}
+#inputfield{
+    width: 350px;
+    height: 45px;
+    border: 2px solid white;
+    border-radius: 40px;
+    background-color: rgb(100, 100, 237);
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+button{
+    border: 2px solid white;
+    border-radius: 50px;
+    background-color: rgb(169, 166, 166);
+    padding: 10px;
+    width: 70px;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 10px;
+}
